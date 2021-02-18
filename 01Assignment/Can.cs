@@ -6,7 +6,7 @@ using System.Linq;
 namespace _01Assignment
 {
     public class Can
-    {
+     {
         public readonly Flavor TheFlavor = Flavor.REGULAR;
 
 
