@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_01Assignment</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Can.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Can.cs" />
+  </ItemGroup>
+
+</Project>
